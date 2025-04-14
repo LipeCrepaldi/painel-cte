@@ -1,0 +1,44 @@
+
+<CTe>
+  <infCte>
+    <ide>
+      <cUF>35</cUF>
+      <cCT>12345678</cCT>
+      <CFOP>5353</CFOP>
+      <natOp>Transporte de Carga</natOp>
+      <mod>57</mod>
+      <serie>1</serie>
+      <nCT>1001</nCT>
+      <dhEmi>2025-04-11T10:00:00-03:00</dhEmi>
+    </ide>
+    <rem>
+      <xNome>Transportadora Teste</xNome>
+      <enderReme>
+        <xLgr>Rua Exemplo</xLgr>
+        <nro>123</nro>
+        <xMun>São Paulo</xMun>
+        <UF>SP</UF>
+      </enderReme>
+    </rem>
+    <dest>
+      <xNome>Cliente Final</xNome>
+      <enderDest>
+        <xLgr>Avenida Cliente</xLgr>
+        <nro>456</nro>
+        <xMun>Rio de Janeiro</xMun>
+        <UF>RJ</UF>
+      </enderDest>
+    </dest>
+    <vPrest>
+      <vTPrest>1500.00</vTPrest>
+    </vPrest>
+    <infCarga>
+      <vCarga>20000.00</vCarga>
+      <proPred>Material de Construção</proPred>
+      <infQ>
+        <cUnid>KG</cUnid>
+        <qCarga>18000.00</qCarga>
+      </infQ>
+    </infCarga>
+  </infCte>
+</CTe>
