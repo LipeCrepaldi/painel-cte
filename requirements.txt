@@ -1,0 +1,6 @@
+pip install plotly
+pip install pandas
+pip install streamlit
+pip install lxml
+pip install bcrypt
+pip install streamlit-authenticator
