@@ -1,0 +1,6 @@
+plotly
+pandas
+streamlit
+lxml
+streamlit-authenticator
+pip install bcrypt
